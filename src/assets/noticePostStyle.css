@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    margin-left: 520px;
+}
+
+.card{
+    display: flex;
+    margin: auto;
+    /* top: 156px; */
+    margin-top: 120px;
+    /* position: relative; */
+    /* top: 160px; */
+
+}
